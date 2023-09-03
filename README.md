@@ -14,7 +14,7 @@ Date Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.c
 ## Deliverables
 - Exploratory Data Analysis
   - [Data Exploration (SQL)](EDA_E-Commerce_project.sql)
-  - [Data Visualization (Tableau)](https://public.tableau.com/app/profile/zhishan.wen/viz/E-CommerceAnalysis_16933218082000/Customerbehavior?publish=yes)
+  - [Data Visualization (Tableau)](https://github.com/zwen10/E-Commerce_Project/blob/main/Data%20visualization.pdf)
 - [Customer Segmentation Analysis](https://github.com/zwen10/E-Commerce_Project/blob/main/Customer%20Segmentation%20Analysis%20(RFM%20%26%20K-Means).ipynb)
   - RFM segmentation
   - K-Means segmentation
